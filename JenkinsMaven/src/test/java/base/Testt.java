@@ -16,6 +16,7 @@ public class Testt {
 		System.setProperty("webdriver.chrome.driver", "C:\\Automation Stuff\\chromedriver.exe");
 		driver=new ChromeDriver();
 		driver.get("https://www.google.com");
+		System.out.println("Anil Kumar Raju");
 	}
 
 }
